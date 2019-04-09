@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\users\hillel\documents\visual studio 2015\projects\belote\belote\game.cpp(108): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\hillel\documents\visual studio 2015\projects\belote\belote\game.cpp(114): warning C4018: '<' : incompatibilité signed/unsigned
+  Belote.vcxproj -> C:\Users\Hillel\documents\visual studio 2015\Projects\Belote\Debug\Belote.exe
